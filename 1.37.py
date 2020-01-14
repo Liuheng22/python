@@ -1,4 +1,5 @@
-filename = 'pi_digits.txt.txt'
+filename = 'pi_digits.txt'
+
 
 with open(filename) as file_object:
     lines = file_object.readlines()
